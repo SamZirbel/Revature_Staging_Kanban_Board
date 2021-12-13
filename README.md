@@ -1,1 +1,3 @@
-# Revature_Staging_Kanban_Board
+# Revature Staging Kanban Board : Samuel Zirbel
+
+### Hello! - I will be using this Repository for my Revature Kanban board
