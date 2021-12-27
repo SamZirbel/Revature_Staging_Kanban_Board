@@ -8,6 +8,14 @@ I am using issues as cards within the board - issues can then be opened and clos
 
 - The project board activity shows the status of newly added and moved cards but clicking on a card and then the issue's name will open up the issue's page where details surrounding the times it was opened and closed also appear
 
+## PO Day 4 : Thursday : 12/23/2021
+
+This day I participated in the Codin' Game challenge and completed the assigned PO weekly challenges.  I completed the Java Challenges and one of the JS challenges.  The JS challenge required the use of Node JS for use of an external input file so it was not technically part of my tech stack.  I ended the day participating in the Hot Seat interview where there seemed to be a misunderstanding by others within the breakout room that Data Query Language and Data Manipulation Language.  Both of these SQL subsets do contain Select which seemed to be unknown to the other PO individual I was paired with.
+
+## PO Day 3 : Wednesday : 12/22/2021
+
+This day I participated in the Codin' Game challenge and then worked on the assigned PO weekly challenges.  I also participated in the weekly HackerRank challenge where I had a bit of trouble with the second question and ended up solving it roughly 10 minutes after the challenge had ended.  My problem was that with the time complexity and once I changed my approch it worked on the first run.  I then ended the day studying Java enthuware for a bit.
+
 ## PO Day 2 : Tuesday : 12/21/2021
 
 Today I participated in a few Codin' Game challenges.  Then I proceeded to start work on the weekly PO coding challenges with the Javascript Challenge.  The challenges would have been easy enough to complete with hard coded input but I wanted to set it up so that the input could be taken sequentially from an external file.  After searching around for a portion of the morning I ended up having to learn some Node JS in order to complete the problem which was interesting.  A lot of the tutorials would say to do certain things but in the end I had to fiddle around with the code to figure out what actually worked and was useful for that situation.  Following this I participated in the Kahoot Tournament after lunch.  Finally I studied the Enthuware Test 2 a bit.
